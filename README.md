@@ -58,7 +58,7 @@ To run the app locally, follow these steps:
 
 2. **Navigate to the project directory**:
     ```bash
-    cd dvice-generator-app-main
+    cd advice-generator-app-main
     ```
 
 3. **Open the `index.html` file** in your browser to start using the app.
