@@ -53,12 +53,12 @@ To run the app locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/advice-generator-app.git
+    git clone [ttps://github.com/S-F-Waweru/advice-generator-app-main.git]
     ```
 
 2. **Navigate to the project directory**:
     ```bash
-    cd advice-generator-app
+    cd dvice-generator-app-main
     ```
 
 3. **Open the `index.html` file** in your browser to start using the app.
